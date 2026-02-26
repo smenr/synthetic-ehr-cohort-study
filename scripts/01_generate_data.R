@@ -28,3 +28,4 @@ write.csv(synthetic_data, "data/synthetic_ehr.csv", row.names = FALSE)
 
 cat("Dataset sintético generado exitosamente!\n")
 
+head(read.csv("data/synthetic_ehr.csv"))
