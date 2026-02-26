@@ -1,3 +1,6 @@
+#Project: Synthetic EHR Cohort Study
+#Author: Oscar Santiago Mendez Ruiz
+#Date: 2026
 # 02_cohort_construction.R
 # Define retrospective cohort from synthetic EHR dataset
 

@@ -1,3 +1,6 @@
+#Project: Synthetic EHR Cohort Study
+#Author: Oscar Santiago Mendez Ruiz
+#Date: 2026
 # 03_analysis.R
 # Multivariable logistic regression analysis
 

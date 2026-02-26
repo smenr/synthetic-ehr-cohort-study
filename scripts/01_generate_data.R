@@ -1,3 +1,6 @@
+#Project: Synthetic EHR Cohort Study
+#Author: Oscar Santiago Mendez Ruiz
+#Date: 2026
 # 01_generate_data.R
 
 set.seed(12345)  # reproducibilidad
