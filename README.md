@@ -25,7 +25,7 @@ All analyses were performed in Python using `statsmodels`.
 ## Results
 ### Age Distribution
 
-![Age Distribution](figures/age_distribution.png)
+![Age Distribution](figures/Age_Distribution.png)
 
 The age distribution appears approximately normal,
 reflecting a realistic adult primary care population.
@@ -33,7 +33,7 @@ There is adequate variability across age groups,
 supporting multivariable modelling.
 ### Outcome by Drug Exposure
 
-![Outcome by Exposure](figures/proporiton_drug_exposure.png)
+![Outcome by Exposure](figures/proportion_drug_exposure.png)
 
 The crude proportion of the outcome was lower among
 drug-exposed individuals compared to unexposed patients,
