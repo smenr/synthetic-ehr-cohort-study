@@ -25,7 +25,7 @@ All analyses were performed in Python using `statsmodels`.
 ## Results
 ### Age Distribution
 
-![Age Distribution](figures/Age_Distribution.png)
+![Age Distribution](figures/AgeDistribution.png)
 
 The age distribution appears approximately normal,
 reflecting a realistic adult primary care population.
